@@ -1,6 +1,6 @@
 # omnitonal.com :notes: :computer:
 
-Welcome to the official GitHub repository of **omnitonal.com** - your ultimate source for everything at the intersection of music, gear, technology, and audio programming!
+Welcome to the official GitHub repository of [**omnitonal.com**](http://www.omnitonal.com) - your ultimate source for everything at the intersection of music, gear, technology, and audio programming!
 
 ## :musical_score: About Us
 
