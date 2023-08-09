@@ -24,8 +24,8 @@ We welcome contributions from our community! Whether it's a bug fix for one of o
 
 ## :loudspeaker: Stay Connected
 
-- [Website](https://omnitonal.com)
-- [Twitter](flipboard.com/@Omnitonal/)
+- [Website](https://www.omnitonal.com)
+- [Flipboard](https://www.flipboard.com/@Omnitonal/)
 
 ---
 
